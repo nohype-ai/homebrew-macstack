@@ -1,8 +1,8 @@
 class Macstack < Formula
   desc "Tech stack management based on a personal stack definition"
   homepage "https://macstack.dev"
-  url "https://github.com/nohype-ai/MacStack/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "c0bbfcb2be1be4b1c1668f7c76623bba481c8ddd73a7f79d4305045b6e837021"
+  url "https://github.com/nohype-ai/MacStack/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "fa77a171f526c222174fc27800789c3c4848304354e21c8001955dbcd2dc3656"
   license "MIT"
 
   depends_on "jq"
