@@ -6,7 +6,7 @@ class Macstack < Formula
   license "MIT"
 
   depends_on "jq"
-  depends_on "moreutils"
+  depends_on "node"
   depends_on "check-jsonschema"
 
   def install
